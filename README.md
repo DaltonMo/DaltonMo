@@ -32,7 +32,7 @@ I am a motivated and detail-oriented developer currently pursuing a degree in Co
 
 ## Featured Repositories
 
-- Mathematics-Physics-Projects: Visualizations and simulations of mathematical and physical phenomena using Python.
+- [Mathematics-Physics-Projects](https://github.com/DaltonMo/Mathematics-Physics-Projects): Visualizations and simulations of mathematical and physical phenomena using Python.
 
 - Game-Development-Demos: Showcasing gameplay prototypes and mechanics built with industry tools.
 
