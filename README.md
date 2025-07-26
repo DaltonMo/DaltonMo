@@ -29,13 +29,13 @@ I'm a driven developer passionate about building effiecient, low-level systems a
 
 ## 🚀 Featured Projects
 
-### [🧱 CLI Calculator in C](https://github.com/DaltonMo)
+### [📻 RF Signal Log Analyzer](https://github.com/DaltonMo/rf-signal-analyzer)
 
-A command-line calculator showcasing modular design, input handling, and math logic in C.
+A Haskell-based command-line tool that parses CSV log files of RF signals, calculates packet loss, and reports average RSSI for diagnostic purposes.
 
-### [🔌 Grapevyne](https://github.com/DaltonMo)
+### [🔌 Systems Telemetry Dashboard (Linux)](https://github.com/DaltonMo/system-telemetry-dashboard)
 
-A full-stack social app with JWT-based authentication, user feed, and modular backend.
+A lightweight system monitoring tool with a C++ backend that collects real-time telemetry data and a React + TypeScript frontend that visualizes Linux system metrics in a responsive web dashboard.
 
 ### [🎮 CivicRP for Arma Reforger](https://github.com/DaltonMo)
 
