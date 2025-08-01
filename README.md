@@ -37,9 +37,9 @@ A Haskell-based command-line tool that parses CSV log files of RF signals, calcu
 
 A lightweight system monitoring tool with a C++ backend that collects real-time telemetry data and a React + TypeScript frontend that visualizes Linux system metrics in a responsive web dashboard.
 
-### [🎮 CivicRP for Arma Reforger](https://github.com/DaltonMo)
+### [📖 Haskell Learning Projects](https://github.com/DaltonMo/haskell-learning-projects)
 
-A modular roleplay gamemode framework with job systems, economy, and database integration.
+A collection of small, focused Haskell programs created to explore functional programming concepts, practice idiomatic Haskell, and build command-line utilities. Each project targets specific language features and problem-solving strategies.
 
 ## 👁️ Vision
 
